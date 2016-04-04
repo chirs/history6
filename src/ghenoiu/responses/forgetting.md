@@ -1,39 +1,25 @@
-### Forgetting | Memory
+### Remembering, Forgetting, Imagining
 
 #### Tafuri / L'architecture dans le Boudoir + Ross / Architecture of the City
 
+
 "At the origins of the critical act are always found the acts of distinguishing, separating, and disintegrating a given structure. Without the act of disintegrating the object under analysis, it is impossible to rewrite it." 
 
-Rossi speaks often about memory - about the collective and individual memory, about the embedded memory of the individual object. 
+Memory is a process of construction. We do not store a complete memory in our brains, but instead small pieces. When we retrieve a memory, we fill in the blanks between the pieces of memory. Over time the memory gets molded, in a somewhat random process, into a new object. A memory is always an interpretation, a synthesis of fragments of original moment and what has been experienced since. 
 
-Throughout this class (and in fact my life), I have had a much more conflicted relationship with memory. I constantly feel as if my memory is inadequate. In discussions in this class, I do not remember much of the text that I have read (cf. understanding); in my life, most of the events that have made up my life are forgotten. 
+The method of loci is a classic mnemonic technique in which individual memories are connected to individual rooms in an imaginary building; massive memory chains can be constructed in this manner. 
 
-Having studied memory as a psychology student, I feel particularly aware of the imperfection of memory. Memory is prone to revision - we do not remember things as they were, but as fragments, the remainder of which are filled in by our imagination. Not infrequently, memories are entirely fabricated. 
-I wonder about the idea of an architecture of forgetting. For me, this idea conjures the idea of ruins - a ruin is the evidence of a forgotten civilization - and while we may believe that we can "read" and thus interpret the meaning of this object, we are almost certainly wrong. Our reading is contingent on our present circumstances, our goals and desires. 
+Memories exist in a kind of interface with the natural world. Memories lie dormant, waiting to be triggered, an thus remade; in the same way, memory resides in every architectural object, waiting to be read, interpreted.
+
+What then is the nature of the memory that is embedded in architectural space? It is a [pastiche?] Monuments project a kind of grand collective memory - they reflect values from a certain time, as perceived through modern eyes. They are in some ways the most honest and telling of the memory shards of the city, and in some ways the biggest liars.
+
+What about the microscopic fragments? The potsherds, arrowheads, and refuse piles of architectural history? This can, in aggregate, tell us something - analysis can tell us what was eaten, what kind of kiln was used, contextualize entire bodies of information. On their own, however, they reveal little, allowing extrapolations that can be wildly incorrect.
+
+This presents itself most clearly in the concept of the ruin - an object that is at once monumental and invisible. Sometimes, ruins retain fragments of memory - but, more interestingly, sometimes ruins become completely forgotten and reinvented. [Humayun's Tomb?]
+
+For me, this idea conjures the idea of ruins - a ruin is the evidence of a forgotten civilization - and while we may believe that we can "read" and thus interpret the meaning of this object, we are almost certainly wrong. Our reading is contingent on our present circumstances, our goals and desires. 
 
 And in fact all architectural objects share this quality to some extent with ruins. The Seagram Building holds a dramatically different meaning today than it did when it was constructed - the original meaning of the building is entirely inaccessible to modern eyes. We can perhaps catch glimpses of it, but the original meaning is lost, and our best hope is to reconstruct a story that is useful to ourselves (or myself, since my story will not have any relevance to you.)
 
-Just as we cannot read a building accurately, we cannot read a text. The meaning is lost as soon as it is written - in fact, the author does not even have control of the meaning of his work. In each moment, the meaning is transformed. We can perhaps push forward, or in a certain direction. 
 
-What does it mean to understand a work of architecture? What does it mean to understand a text? Ultimately, all undestanding is only partial. No one will ever understand what Tafuri meant, not even Tafuri himself. 
-
-We simply grab pieces, and re-deploy them in the service of our own beliefs, theories, etc.  We attend class, and our understanding is transformed in response to the teacher's own interpretation.
-
-We do not remember for long. Arguments become fragmentary. The act of writing presents a crystallization of a series of fragments of thought.
-
-Nevertheless, I enjoy the poetry of Rossi and Tafuri.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+There are fragments of his text that seem immensely valuable, but the thing itself is beyond my comprehension. What is the locus? We discussed it in class, but I've forgotten the answer.

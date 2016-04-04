@@ -1,8 +1,0 @@
-### Autonomy
-
-
-"At this point, as Victor Hugo realized so presciently in the 1830s, communication through the printed word, and lately through the mass media has released architecture from the role of "social book" into its specialized domain." 
-
-This conclusion seems suspicious - architecture was once needed for this specific function, and now is freed from any requirements at all? This seems more self-justification than real analysis of the social role of architecture.
-
-

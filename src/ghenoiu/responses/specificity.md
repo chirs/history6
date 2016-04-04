@@ -1,8 +1,12 @@
 ### Specificity | Significance
-#### Rossi / Image of the City
+#### Rossi / Image of the City, Judd / Specific Objects
 
 
-Like Tafuri, I don't feel like I truly understand Rossi. There are fragments of his text that seem immensely valuable, but the thing itself is beyond my comprehension. What is the locus? We discussed it in class, but I've forgotten the answer.
+What does it mean to be a unique thing? How do we deal with this stuff?
+
+
+
+
 
 Upon revisiting the piece, I was struck by Rossi's words about the specificity of the city: 
 "there is something in the nature of urban artifacts that renders them very similar - and not only metaphorically - to a work of art." 
