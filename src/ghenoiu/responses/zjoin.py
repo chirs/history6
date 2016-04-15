@@ -12,7 +12,7 @@ lst = [
     'nature',
     'reading',
     'recursion',
-    'specifity',
+    'specificity',
     'taste',
     'truth',
     'typology',
