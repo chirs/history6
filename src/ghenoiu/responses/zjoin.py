@@ -34,7 +34,7 @@ def join():
         s += sf
         s += '\n\n\n\n'
     
-    f = open('zzz.md', 'w')
+    f = open('z_final.md', 'w')
     f.write(s)
     f.close()
         

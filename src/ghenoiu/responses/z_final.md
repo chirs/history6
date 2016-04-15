@@ -118,6 +118,16 @@ There are fragments of his text that seem immensely valuable, but the thing itse
 
 
 
+Koolhaas's 'Junkspace' demands a response as much to its structure as to its message. What is this text, rejecting paragraphs and traditional organizational structures? Why? Is it mirroring the structure of the junkspace that it describes?
+
+NO MARGINS
+
+This particular transcription has no vertical margins. They h
+
+Junkspace is the manifesto exploded. What is the point? What is the argument? Can there be an argument in the first place?
+
+
+
 Urban design = law + architecture.
 
 
