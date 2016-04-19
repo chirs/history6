@@ -1,3 +1,47 @@
+### Junkspace Shmunkspace
+#### Koolhaas 
+
+What the fuck is junkspace? I read that whole essay and I couldn't make out a single coherent argument. Maybe that's the point? Honestly I didn't read the whole article - I skipped pages 6 and 7. I don't think it matters - it's not like one idea follows from another. It's just a series of sentences. Aphorisms? What is the difference between junkspace and Junkspace? Are they the same? Two sides of the same coin? Is Rem just generating more junkspace? Or maybe he is copying its form? Why are there no paragraphs? How do I read this text? Is this how I am supposed to read Junkspace?
+I asked my classmates what junkspace was. Most didn't have an answer. Mark told me that it was stuff like airport space where it all seems like it's the same thing. Spaces we've created that is under air-conditioning and that's all the same. Was there junkspace before Rem invented the idea? Before air-conditioning? 
+Is junkspace like junk food? I think that's one analogy that he's drawing. If junkspace is the fallout of modernism, is junk food the fallout of capitalism? What do we do about it? We can abstain from eating junk food. Should we? What about junkspace? It seems unavoidable. Space is not like food. 
+Before people realized that junkspace was junkspace they called it megastructure. Maybe junkspace is all the leftover space we have in the world. Space that isn't architected? Or does that even matter? Space that architects can't handle. Architectural excess. Is architectural megastructure really junkspace? Or is junkspace just what happens when we try to do megastructure? Or is junkspace just the only way that megastructure actually happens? 
+Should we look at junkspace? Or avert our eyes? 
+I talked to Craig and he told me that junkspace was non-place space. That it came from neoliberal capitalism's transformation of the whole world into the same space. Starbucks is junkspace. Hotels and airport lobbies are junkspace. Spaces that nobody inhabits, but everybody just passes through. Traffic is junkspace. The highway is junkspace. Junkspace is the product of a profligate creation of space. 
+I don't think Junkspace is junkspace. But maybe it's trying to evoke junkspace? Everything has some sort of meaning, but maybe not. Ideas are powerful, compelling, but don't quite fit together, but maybe they do. Junkspace is everywhere and nowhere at once. Everything is junkspace, until you look at it, and then it becomes real space. Maybe, maybe not, I'm not sure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Leon Krier / Peter Eisenman + Mark Wigley
+
+Watching the Sanders / Hillary debate last night - and generally reflecting on our strange current political climate - I was reminded of Mark Wigley's critique of Eisenman and Krier as "simply two matching brands." We are (it seems) experiencing some sort of political realignment, as Trumpism is bringing to light a powerful populist (nativist) strain in the American body politic. And this shift reveals exactly how similar the two "sides" have been for so long, both accepting fundamental assumptions (rationality, globalization, etc.) - and critiquing the other's position within that set of assumptions. What Wigley says of Eisenman and Krier could equally be said of the Republicans and Democrats: "The positions are so symmetrical that there is no dissonance or exchange. Each side, in fact, adjusts to become the opposite of the other."
+
+The Overton window describes a subset of ideas that are socially (politically) acceptable - ideas outside of that - eg communism in 20th century US - are not taken seriously. Krier and Eisenman define themselves as rivals, opposite poles - but they are really just opposite sides of a single world-view that they continually confirm by their arguments. Every discussion that they have, every disagreement, legitimizes the fundamental assumptions that they both hold. While on one level they are opposites, from another angle they are exactly the same.
+
+"Most architects talk past each other. In a sense, they are simply rivals competing for a part of the audience share."  This seems to be what is happening with Krier and Eisenman. What is the point of their discussions? Is anyone persuaded to one side or another? Does it even matter? What happens when one of them wins (did Eisenman win?) Presumably we set off on a new direction, examining new ideas. Maybe we can stay in the same place forever, debating the same old points. Maybe the whole point of the debate is just to sharpen both sides, to produce stronger arguments for the production of more precisely opposed, symmetrical buildings.
+
+Is this what happened with the classical tradition for millenia? Is this the natural state of architecture? Of discourse? How do we know when we can quit arguing? When do we move on? Do we declare a winner, or do we just declare the game invalid because the rules were wrong in the first place?
+
+# [Idea of discussion, group construction of reality, discourse...]
+
+
+
+
+
+
 ### Anonymity + Place
 #### Moholy Nagy + Rudofsky
 
@@ -116,55 +160,13 @@ There are fragments of his text that seem immensely valuable, but the thing itse
 
 
 
-
-
-Koolhaas's 'Junkspace' demands a response as much to its structure as to its message. What is this text, rejecting paragraphs and traditional organizational structures? Why? Is it mirroring the structure of the junkspace that it describes?
-
-NO MARGINS
-
-This particular transcription has no vertical margins. They h
-
-Junkspace is the manifesto exploded. What is the point? What is the argument? Can there be an argument in the first place?
-
-
-
-Urban design = law + architecture.
-
-
-"Architecture can respond to the dynamism of social patterns by closely accommodating well-observed particulars, by creating spaces of usefully loose fit, or by propo sing arr angements that attempt to conduce or facilitate specific behaviors outside the conventions of the present and familiar." - Sorkin
-
-
-
-
-
-
-
-
-Krier / Eisenman.
-
-"The positions are so symmetrical that there is no dissonance or exchange. Each side, in fact, adjusts to become the opposite of the other."
-
-Watching the Sanders / Hillary debate last night, I was reminded of Mark Wigley's critique of Eisenman and Krier as "simply two matching brands."
-
-The "Overton window" describes a social pyschological construct of "the range of ideas the public will accept." We in the early 21st century United States occupy a certain sector of this window - the architecture students at Pratt, certainly, a different one than their parents, etc.
-
-The persistent power of Trump this semester makes me wonder about the function of rhetoric.
-
-Define new ideas? Where do they come from?
-
-"Most architects talk past each other. In a sense, they are simply rivals competing for a part of the audience share." 
-
-
-
-[Idea of discussion, group construction of reality, discourse...]
-
-
-
-
-
-
 ### Mannerism / Contrarianism
 #### DSB / Everyday America + Kuhn
+
+
+
+
+
 
 Social construction of what is good and what is bad.
 

@@ -3,11 +3,11 @@
 
 
 lst = [
+    'koolhaas',
+    'krier',
     'anonymity',
     'fiction',
     'forgetting',
-    'koolhaas',
-    'krier',
     'mannerism',
     'nature',
     'reading',
@@ -17,6 +17,7 @@ lst = [
     'truth',
     'typology',
     ]
+
 
 unfinished = [
     'evolution',

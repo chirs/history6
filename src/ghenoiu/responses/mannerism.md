@@ -1,6 +1,11 @@
 ### Mannerism / Contrarianism
 #### DSB / Everyday America + Kuhn
 
+
+
+
+
+
 Social construction of what is good and what is bad.
 
 
