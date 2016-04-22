@@ -9,7 +9,6 @@ lst = [
     'fiction',
     'forgetting',
     'mannerism',
-    'nature',
     'reading',
     'recursion',
     'specificity',
@@ -20,6 +19,7 @@ lst = [
 
 
 unfinished = [
+    'nature',
     'evolution',
     'formalism',
     'ideas',

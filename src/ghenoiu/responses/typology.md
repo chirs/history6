@@ -1,8 +1,9 @@
 ### Typology + Classification
-#### Rowe / Third Typology
-Alexander? Pattern Language?
+#### Rowe / Third Typology (Alexander?)
 
-How do we classify buildings?  Perhaps there are many ways, perhaps there is only one (typology). Formational rules / principles. Some of the clearest examples of typological research are by Eisenman. Permutation on a single idea.
+How do we classify buildings?  Residential vs. commercial. Classical vs. modernist. Urban vs rural.
+
+Perhaps there are many ways, perhaps there is only one (typology). Formational rules / principles. Some of the clearest examples of typological research are by Eisenman. Permutation on a single idea.
 
 For me, typology was the use of a building - the typology of the house, or the museum, or the factory.
 
